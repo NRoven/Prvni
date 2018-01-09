@@ -1,1 +1,1 @@
-var promenna = 5;
+var promenna = 6;
