@@ -1,0 +1,1 @@
+var promenna = 5;
